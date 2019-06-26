@@ -10,6 +10,8 @@
 http://localhost:8080/mvn-app/item
 ```
 
+![](img/008.png)
+
 ### データベース
 
 MySQLかPostgreSQLなど
