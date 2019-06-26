@@ -243,7 +243,7 @@ coberturaはテストカバレッジを計測するライブラリです。
 
 ---
 
-## Jenkins
+## 5. Jenkins
 
 JenkinsでCIします。
 
